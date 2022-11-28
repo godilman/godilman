@@ -48,18 +48,18 @@ src="https://img.shields.io/twitter/follow/godilman?logo=twitter&style=for-the-b
 <a href="http://www.github.com/godilman"><img src="https://activity-graph.herokuapp.com/graph?username=godilman&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
-### Support Me
-
-<a href="https://www.buymeacoffee.com/godilman"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
 <!--
+### Support Me
+<a href="https://www.buymeacoffee.com/godilman"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+-->
+<!---->
 profilme.dev
 **godilman/godilman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning React and Node.js
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
